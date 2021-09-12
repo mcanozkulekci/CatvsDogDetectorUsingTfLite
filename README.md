@@ -19,7 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
- ![Main App Page](/appimages/mainscreen.jpeg)
-  ![Main App Page](/appimages/dogresult.jpeg)
+ ![Main App Page](/appimages/mainscreen.jpeg){ width: 200px; }
+ ![Main App Page](/appimages/dogresult.jpeg){ width: 200px; }
+  ![Main App Page](/appimages/catresult.jpeg){ width: 200px; }
 
 
