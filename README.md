@@ -1,6 +1,6 @@
 # catvsdog
 
-A new Flutter project.
+Tensorflow Lite is a Flutter plugin for accessing TensorFlow Lite API. With this app, you can classify cats and dogs and see the result in your mobile phone.
 
 ## Getting Started
 
