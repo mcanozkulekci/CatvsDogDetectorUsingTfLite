@@ -15,13 +15,6 @@ cd CatvsDogDetectorUsingTfLite
 flutter run
 ```
 
-
-https://youtu.be/J9SamfRztEQ
-# this is a *markdown* document
-
-<iframe  title="YouTube video player" width="480" height="390" src="https://youtu.be/J9SamfRztEQ" frameborder="0" allowfullscreen></iframe>
-
-with a **youtube** video embedded
 ![Main App Page](/appimages/mainscreen.jpeg)
 ![Main App Page](/appimages/dogresult.jpeg)
 ![Main App Page](/appimages/catresult.jpeg)
