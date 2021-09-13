@@ -2,25 +2,23 @@
 
 Tensorflow Lite is a Flutter plugin for accessing TensorFlow Lite API. With this app, you can classify cats and dogs and see the result in your mobile phone.
 
-## Getting Started
+## Installation
+To install and run Flutter, you need to follow the docs:
+```bash
+https://flutter.dev/docs/get-started/install 
+```
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-
+## Usage
+```bash
+git clone https://github.com/mcanozkulekci/CatvsDogDetectorUsingTfLite.git
+cd CatvsDogDetectorUsingTfLite
+flutter run
+```
 
 
 
- ![Main App Page](/appimages/mainscreen.jpeg)
- ![Main App Page](/appimages/dogresult.jpeg)
-  ![Main App Page](/appimages/catresult.jpeg)
+![Main App Page](/appimages/mainscreen.jpeg)
+![Main App Page](/appimages/dogresult.jpeg)
+![Main App Page](/appimages/catresult.jpeg)
 
 
